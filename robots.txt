@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://novakovskisolutions.github.io/avocal/sitemap.xml
