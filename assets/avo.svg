@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" role="img" aria-label="Avo, the Avo Cal avocado mascot">
+  <defs>
+    <linearGradient id="skin" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4C9139"/><stop offset="1" stop-color="#2F6422"/></linearGradient>
+    <linearGradient id="flesh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F4F7B0"/><stop offset="1" stop-color="#C9E27F"/></linearGradient>
+    <radialGradient id="pit" cx="0.4" cy="0.35" r="0.7"><stop offset="0" stop-color="#C58A5E"/><stop offset="1" stop-color="#7A4A2E"/></radialGradient>
+  </defs>
+  <path d="M100 8C138 8 152 52 163 96C180 150 160 212 100 212C40 212 20 150 37 96C48 52 62 8 100 8Z" fill="url(#skin)"/>
+  <path d="M100 24C130 24 141 60 151 100C165 147 148 198 100 198C52 198 35 147 49 100C59 60 70 24 100 24Z" fill="url(#flesh)"/>
+  <circle cx="100" cy="152" r="30" fill="url(#pit)"/>
+  <ellipse cx="91" cy="140" rx="9" ry="5.5" fill="#fff" opacity=".28" transform="rotate(-25 91 140)"/>
+  <ellipse cx="80" cy="84" rx="7" ry="9" fill="#2B2118"/>
+  <ellipse cx="120" cy="84" rx="7" ry="9" fill="#2B2118"/>
+  <circle cx="82.5" cy="80.5" r="2.6" fill="#fff"/>
+  <circle cx="122.5" cy="80.5" r="2.6" fill="#fff"/>
+  <ellipse cx="65" cy="102" rx="9" ry="6" fill="#FF8E8E" opacity=".6"/>
+  <ellipse cx="135" cy="102" rx="9" ry="6" fill="#FF8E8E" opacity=".6"/>
+  <path d="M91 100Q100 110 109 100" stroke="#5A2A2A" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+</svg>
